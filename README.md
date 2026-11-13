@@ -1,6 +1,9 @@
 # リバーシ
 HTMLとCSSで作ったリバーシです。
 
+> 書き直した新しい版があります。  
+> https://github.com/surahotoke/Reversi
+
 ## 実際に遊べるページ
 https://surahotoke.github.io/Reversi-legacy
 
