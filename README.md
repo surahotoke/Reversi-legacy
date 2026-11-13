@@ -2,7 +2,7 @@
 HTMLとCSSで作ったリバーシです。
 
 ## 実際に遊べるページ
-https://surahotoke.github.io/Reversi
+https://surahotoke.github.io/Reversi-legacy
 
 ## プレイ動画
 https://github.com/user-attachments/assets/91beee54-63ae-4b89-8c7b-b9d4c8716346
